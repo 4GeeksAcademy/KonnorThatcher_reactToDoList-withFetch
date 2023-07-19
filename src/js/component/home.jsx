@@ -6,6 +6,7 @@ import ToDoList from "./todolist";
 const Home = () => {
 	return (
 		<div className="text-center">
+			<h1>To-Do List 2: Electric Boogaloo</h1>
 			<ToDoList />
 		</div>
 	);
